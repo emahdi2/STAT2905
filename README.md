@@ -1,7 +1,5 @@
-<h1>STAT 2509 — Introduction to Statistical Modeling II</h1>
+<h1>STAT 2509: Introduction to Statistical Modeling II</h1>
 <p><em>(Course Notes & Teaching Materials)</em></p>
-
-<hr/>
 
   <div class="section">
     <h2>📘 About the Course</h2>
