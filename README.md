@@ -88,21 +88,31 @@
     </ol>
   </div>
 
-  <div class="section">
+<div class="section">
     <h2>📖 Recommended Texts & Materials</h2>
-    <p>
-      Suggested textbooks typically include standard references on regression analysis,
-      design of experiments, and categorical data analysis.
-    </p>
-    <p>
-      Please consult the official course outline for required and recommended materials.
-    </p>
-  </div>
+    
+    <h3>Primary Textbook</h3>
+    <ul>
+        <li><em>Introduction to Probability and Statistics</em>, 4th Canadian Edition, by Mendenhall, Beaver, & Beaver</li>
+    </ul>
+    
+    <h3>Supplementary References (by Topic)</h3>
+    <ul>
+        <li><strong>Topic 0-2 (Linear Regression):</strong> 
+            <em>Applied Linear Regression Models</em> by Kutner, Nachtsheim, & Neter</li>
+        <li><strong>Topic 3–5 (Experimental Design):</strong> 
+            <em>Design and Analysis of Experiments</em> by Montgomery</li>
+        <li><strong>Topic 6 (Categorical Data):</strong> 
+            <em>Categorical Data Analysis</em> by Agresti</li>
+    </ul>
+      
+    <p><strong>Note:</strong> Always refer to the official course outline for definitive required and recommended materials.</p>
+</div>
 
   <div class="section">
     <h2>📌 Notes</h2>
     <ul>
-      <li>Statistical software (e.g., R, SAS, or similar) will be used for analysis.</li>
+      <li>Statistical software, R, will be used for analysis.</li>
       <li>Lecture and lab materials will be updated throughout the term.</li>
       <li>Students should ensure access to the required software and datasets.</li>
     </ul>
