@@ -89,55 +89,6 @@
   </div>
 
   <div class="section">
-    <h2>📁 Repository Structure</h2>
-    <pre>
-STAT2509C/
-│
-├── README.html                 ← Course overview (this file)
-├── Syllabus.pdf                ← Full course syllabus & schedule
-├── Lectures/                   ← Lecture slides and notes
-│   ├── 01_Simple_Linear.pdf
-│   ├── 02_Multiple_Linear.pdf
-│   ├── 03_ANOVA_CRD.pdf
-│   ├── 04_RBD_ANOVA.pdf
-│   ├── 05_TwoFactor_ANOVA.pdf
-│   └── 06_Categorical_Data.pdf
-│
-├── Assignments/                ← Homework and assignment solutions
-│   ├── Assignment1.pdf
-│   ├── Assignment2.pdf
-│   └── ...
-│
-├── Labs/                       ← Laboratory exercises or R/SAS code
-│   ├── Lab1_Regression.R
-│   ├── Lab2_ANOVA.R
-│   └── ...
-│
-├── Exams/                      ← Past tests and practice exams
-└── References/                 ← Textbooks & additional resources
-    </pre>
-  </div>
-
-  <div class="section">
-    <h2>🧮 Assessment</h2>
-    <p>
-      Assessment typically includes assignments, lab reports, and examinations.
-      Evaluation components may include:
-    </p>
-    <ul>
-      <li>Homework & assignments</li>
-      <li>Midterm tests</li>
-      <li>Final examination</li>
-      <li>Lab exercises (if applicable)</li>
-    </ul>
-
-    <div class="note">
-      <strong>Note:</strong> Instructor-specific grading policies and schedules should
-      be added here based on the current course offering.
-    </div>
-  </div>
-
-  <div class="section">
     <h2>📖 Recommended Texts & Materials</h2>
     <p>
       Suggested textbooks typically include standard references on regression analysis,
