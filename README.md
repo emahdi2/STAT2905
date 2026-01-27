@@ -44,7 +44,6 @@
           <li>Model diagnostics and residual analysis</li>
         </ul>
       </li>
-
       <li>
         <strong>Multiple Linear Regression</strong>
         <ul>
