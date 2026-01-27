@@ -120,14 +120,6 @@
   </div>
 
   <div class="section">
-    <h2>📜 License</h2>
-    <p>
-      Course materials in this repository are provided for educational and non-commercial
-      use only. Please cite appropriately if reusing any content.
-    </p>
-  </div>
-
-  <div class="section">
   <h2>🧩 Citation</h2>
     
   <p>
@@ -138,6 +130,14 @@
 Mahdi, E. (2025). <em>STAT STAT 2509: Introduction to Statistical Modeling II — Course Notes and Teaching Materials</em>.
 </blockquote>
 </div>
+
+  <div class="section">
+    <h2>📜 License</h2>
+    <p>
+      Course materials in this repository are provided for educational and non-commercial
+      use only. Please cite appropriately if reusing any content.
+    </p>
+  </div>
 
 </body>
 </html>
