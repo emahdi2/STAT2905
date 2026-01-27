@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>STAT 2509C — Introduction to Statistical Modeling II</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      max-width: 900px;
-      color: #222;
-    }
-    h1, h2, h3 {
-      color: #003366;
-    }
-    code, pre {
-      background: #f4f4f4;
-      padding: 8px;
-      border-radius: 4px;
-      display: block;
-      overflow-x: auto;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .note {
-      background: #f9f9f9;
-      border-left: 4px solid #003366;
-      padding: 12px 16px;
-      margin: 20px 0;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>STAT 2509C — Introduction to Statistical Modeling II</h1>
+<h1>STAT 2509C — Introduction to Statistical Modeling II</h1>
 
   <p><strong>Course Repository for STAT 2509C</strong><br>
      Course code: <strong>STAT 2509C</strong><br>
