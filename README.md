@@ -1,7 +1,84 @@
-<h1>STAT 2509 — Introduction to Statistical Modeling II</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>STAT 2509 — Introduction to Statistical Modeling II</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.7;
+      margin: 40px auto;
+      max-width: 900px;
+      color: #222;
+      background-color: #ffffff;
+    }
 
-  <p><strong>Course Repository for STAT 2509</strong><br>
-     Course title: <em>Introduction to Statistical Modeling II</em></p>
+    h1 {
+      color: #003366;
+      border-bottom: 3px solid #003366;
+      padding-bottom: 10px;
+    }
+
+    h2 {
+      color: #003366;
+      margin-top: 35px;
+    }
+
+    h3 {
+      color: #444;
+      margin-top: 20px;
+    }
+
+    p {
+      margin: 12px 0;
+    }
+
+    ul, ol {
+      margin-left: 25px;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+
+    .section {
+      margin-bottom: 35px;
+    }
+
+    blockquote {
+      background: #f4f4f4;
+      border-left: 5px solid #003366;
+      margin: 15px 0;
+      padding: 12px 18px;
+      font-style: italic;
+    }
+
+    .note {
+      background: #f9f9f9;
+      border-left: 4px solid #003366;
+      padding: 12px 16px;
+      margin-top: 15px;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding-top: 15px;
+      border-top: 1px solid #ccc;
+      font-size: 0.9em;
+      color: #555;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>STAT 2509 — Introduction to Statistical Modeling II</h1>
+
+  <p>
+    <strong>Course Repository for STAT 2509</strong><br>
+    Course title: <em>Introduction to Statistical Modeling II</em>
+  </p>
 
   <div class="section">
     <h2>📘 About the Course</h2>
@@ -88,26 +165,38 @@
     </ol>
   </div>
 
-<div class="section">
+  <div class="section">
     <h2>📖 Recommended Texts & Materials</h2>
-    
+
     <h3>Primary Textbook</h3>
     <ul>
-        <li><em>Introduction to Probability and Statistics</em>, 4th Canadian Edition, by Mendenhall, Beaver, & Beaver</li>
+      <li>
+        <em>Introduction to Probability and Statistics</em>,  
+        4th Canadian Edition, by Mendenhall, Beaver, & Beaver
+      </li>
     </ul>
-    
+
     <h3>Supplementary References (by Topic)</h3>
     <ul>
-        <li><strong>Topic 0-2 (Linear Regression):</strong> 
-            <em>Applied Linear Regression Models</em> by Kutner, Nachtsheim, & Neter</li>
-        <li><strong>Topic 3–5 (Experimental Design):</strong> 
-            <em>Design and Analysis of Experiments</em> by Montgomery</li>
-        <li><strong>Topic 6 (Categorical Data):</strong> 
-            <em>Categorical Data Analysis</em> by Agresti</li>
+      <li>
+        <strong>Topics 0–2 (Linear Regression):</strong>  
+        <em>Applied Linear Regression Models</em> by Kutner, Nachtsheim, & Neter
+      </li>
+      <li>
+        <strong>Topics 3–5 (Experimental Design):</strong>  
+        <em>Design and Analysis of Experiments</em> by Montgomery
+      </li>
+      <li>
+        <strong>Topic 6 (Categorical Data):</strong>  
+        <em>Categorical Data Analysis</em> by Agresti
+      </li>
     </ul>
-      
-    <p><strong>Note:</strong> Always refer to the official course outline for definitive required and recommended materials.</p>
-</div>
+
+    <div class="note">
+      <strong>Note:</strong> Always refer to the official course outline for definitive
+      required and recommended materials.
+    </div>
+  </div>
 
   <div class="section">
     <h2>📌 Notes</h2>
@@ -130,13 +219,13 @@
     <h2>🧩 Citation</h2>
     <p>If you use these materials, please cite:</p>
     <blockquote>
-      STAT 2509C: Introduction to Statistical Modeling II — Course Materials.
+      STAT 2509 — Introduction to Statistical Modeling II — Course Materials.
     </blockquote>
   </div>
 
   <footer>
     <p>
-      © Course Materials — STAT 2509C: Introduction to Statistical Modeling II
+      © Course Materials — STAT 2509 — Introduction to Statistical Modeling II
     </p>
   </footer>
 
