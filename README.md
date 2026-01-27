@@ -1,4 +1,4 @@
-<h1>STAT 2509C — Introduction to Statistical Modeling II</h1>
+<h1>STAT 2509 — Introduction to Statistical Modeling II</h1>
 
   <p><strong>Course Repository for STAT 2509</strong><br>
      Course title: <em>Introduction to Statistical Modeling II</em></p>
