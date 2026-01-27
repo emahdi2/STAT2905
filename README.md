@@ -136,18 +136,16 @@
   </div>
 
   <div class="section">
-    <h2>🧩 Citation</h2>
-    <p>If you use these materials, please cite:</p>
-    <blockquote>
-      STAT 2509 — Introduction to Statistical Modeling II — Course Materials.
-    </blockquote>
-  </div>
+  <h2>🧩 Citation</h2>
+    
+  <p>
+  If you use these course materials or any content from this repository in your teaching or research, please cite as:
+</p>
 
-  <footer>
-    <p>
-      © Course Materials — STAT 2509 — Introduction to Statistical Modeling II
-    </p>
-  </footer>
+<blockquote>
+Mahdi, E. (2025). <em>STAT STAT 2509: Introduction to Statistical Modeling II — Course Notes and Teaching Materials</em>.
+</blockquote>
+</div>
 
 </body>
 </html>
