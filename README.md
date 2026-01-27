@@ -53,7 +53,6 @@
           <li>Multicollinearity and variable selection</li>
         </ul>
       </li>
-
       <li>
         <strong>Completely Randomized Design (CRD)</strong>
         <ul>
@@ -61,7 +60,6 @@
           <li>Treatment effects and F-tests</li>
         </ul>
       </li>
-
       <li>
         <strong>Randomized Block Design (RBD)</strong>
         <ul>
@@ -69,7 +67,6 @@
           <li>ANOVA for block designs</li>
         </ul>
       </li>
-
       <li>
         <strong>Two-Factor Experimental Designs</strong>
         <ul>
@@ -77,7 +74,6 @@
           <li>Main effects and interaction effects</li>
         </ul>
       </li>
-
       <li>
         <strong>Analysis of Categorical Data</strong>
         <ul>
