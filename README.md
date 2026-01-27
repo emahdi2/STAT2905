@@ -87,7 +87,6 @@
 
   <div class="section">
     <h2>📖 Recommended Texts & Materials</h2>
-
     <h3>Primary Textbook</h3>
     <ul>
       <li>
@@ -95,7 +94,6 @@
         4th Canadian Edition, by Mendenhall, Beaver, & Beaver
       </li>
     </ul>
-
     <h3>Supplementary References (by Topic)</h3>
     <ul>
       <li>
@@ -111,13 +109,11 @@
         <em>Categorical Data Analysis</em> by Agresti
       </li>
     </ul>
-
     <div class="note">
       <strong>Note:</strong> Always refer to the official course outline for definitive
       required and recommended materials.
     </div>
   </div>
-
   <div class="section">
     <h2>📌 Notes</h2>
     <ul>
