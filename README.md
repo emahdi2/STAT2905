@@ -6,7 +6,7 @@
   <div class="section">
     <h2>📘 About the Course</h2>
     <p>
-      STAT 2509C is an intermediate-level statistics course that builds on foundational
+      STAT 2509 is an intermediate-level statistics course that builds on foundational
       statistical methods and introduces key modeling techniques used in data analysis
       and experimental inference. Students learn to construct, evaluate, and interpret
       statistical models for data from both designed experiments and observational studies.
