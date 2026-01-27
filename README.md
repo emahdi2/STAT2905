@@ -133,10 +133,11 @@ Mahdi, E. (2025). <em>STAT STAT 2509: Introduction to Statistical Modeling II â€
 
   <div class="section">
     <h2>ðŸ“œ License</h2>
-    <p>
-      Course materials in this repository are provided for educational and non-commercial
-      use only. Please cite appropriately if reusing any content.
-    </p>
+<p>
+All materials in this repository are provided for <strong>educational and non-commercial use only</strong>,
+unless otherwise stated.
+Please contact the author for permission for redistribution or commercial use.
+</p>
   </div>
 
 </body>
